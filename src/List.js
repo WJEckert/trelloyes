@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from './Card'
 import './List.css';
-import store from './STORE.js'
+
 
 export default function List(props) {
   return (
